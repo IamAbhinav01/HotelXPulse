@@ -1,7 +1,19 @@
-# HotelXPulse
-HotelPulse: AI-Driven Occupancy Optimizer automates marketing campaigns, optimizes pricing, and personalizes content to boost hotel occupancy during low periods with minimal manual intervention.
+# HotelPulse: AI-Driven Occupancy Optimizer
 
-HotelXPulse/
+## Overview
+HotelPulse is an intelligent system that uses real-time data and AI to automate marketing campaigns, optimize pricing, and personalize content, maximizing hotel occupancy during low periods.
+
+## Features
+- Real-Time Data Analysis and Forecasting
+- Dynamic Pricing
+- Automated Campaign Management
+- AI-Powered Content Generation
+- Omni-Channel Distribution
+- Integration with Hotel Management Systems
+- Centralized Dashboard
+
+
+HotelPulse/
 ├── data/
 │   ├── historical_booking_data.csv
 │   ├── market_trends.csv
